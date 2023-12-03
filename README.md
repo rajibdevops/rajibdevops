@@ -8,7 +8,7 @@
 🥳 Fun fact: I love to cook, I love to sing, I love to swimming.
 🔧 Tools - VSCode, IntelliJ IDEA  and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on  Linux (UBUNTU OS).
 📩 I run a weekly newsletter service for the developers, Developers Treasure Chest where you will find a curated list of awesome resources.
-👥 I actively memeber of a few popular Facebok groups - WordPressians, phpXperts, Laravel Bangladesh, and PMP Chapter Bangladesh
+👥 I actively memeber of a few popular Facebok groups - WordPressians, phpXperts, Laravel Bangladesh, and PMP Bangladesh Chapter 
 <!---
 rajibdevops/rajibdevops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
