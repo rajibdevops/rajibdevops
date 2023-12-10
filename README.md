@@ -1,4 +1,4 @@
-🎆 I am Chief Technology officer in BASMAH USA. I have developed many application using Cakerphp, Laravel, WordPress, PHP and JavaScript.
+🎆 I am Chief Technology officer in BASMAH USA. I have developed many application using Java, Cakerphp, Laravel, WordPress, PHP and JavaScript.
 🔭 I’m currently creating two courses on tutorLMS and WordPress security, and developed plugin for helping WordPress administrators to manage plugins with so many cool features like never before.
 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 👯 I’m currently open for work and employment opportunities (remote and relocation)
